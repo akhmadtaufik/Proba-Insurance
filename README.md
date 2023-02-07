@@ -15,6 +15,7 @@ The statistical method measures the strength of the linear relationship between 
 ## Hypothesis testing
 Hypothesis testing is a statistical act whereby an analyst tests an assumption regarding a population parameter. The methodology employed by the analyst depends on the data used and the reason for the analysis. Hypothesis testing uses to assess the plausibility of a hypothesis by using sample data.
 
+# Article
 For a more comprehensive understanding of the results and methodology, we suggest referring to the medium article. The article provides an in-depth analysis and explanation of the findings and provides a comprehensive overview of the research process.
 
 https://bit.ly/ProbaAkhmad
